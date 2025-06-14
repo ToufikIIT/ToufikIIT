@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Sk Toufik Haque!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Hi+I'm+Sk+Toufik+Haque;Web+Developer+%26+Open+Source+Enthusiast;GSoC'+25+Aspirant;Quantum+Computing+Learner" alt="Typing SVG" />
+</p>
+
 🎓 B.Tech in Civil Engineering @ IIT Kharagpur  
 💻 Passionate about Web Development, Competitive Programming, Open Source, DSA and Quantum Computing
 🔬 Interested in Quantum Mechanics & Computational Science
