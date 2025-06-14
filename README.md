@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sk Toufik Haque!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Hi+I'm+Sk+Toufik+Haque;Web+Developer+%26+Open+Source+Enthusiast;Quantum+Computing+Learner;C%2B%2B+%7C+Java+%7C+React+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=50&lines=Hi+I'm+Sk+Toufik+Haque;DSA;Web+Developer+%26+Open+Source+Enthusiast;Quantum+Computing+Learner;C%2B%2B+%7C+Java+%7C+React+%7C+Tailwind" alt="Typing SVG" />
 </p>
 
 
