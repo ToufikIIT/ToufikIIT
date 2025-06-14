@@ -5,9 +5,11 @@
 </p>
 
 
-🎓 B.Tech  @ IIT Kharagpur  
-💻 Passionate about Web Development, Competitive Programming, Open Source, DSA and Quantum Computing
-🔬 Interested in Quantum Mechanics & Computational Science
+-🎓 B.Tech  @ IIT Kharagpur  
+
+-💻 Passionate about Web Development, Competitive Programming, Open Source, DSA and Quantum Computing.
+
+-🔬 Interested in Quantum Mechanics & Computational Science
 
 ---
 
