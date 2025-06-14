@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Sk Toufik Haque!
 
 🎓 B.Tech in Civil Engineering @ IIT Kharagpur  
-💻 Passionate about Web Development, Competitive Programming, and Open Source  
-🌌 GSoC'25 Aspirant – Contributor at QC-Devs  
+💻 Passionate about Web Development, Competitive Programming, Open Source, DSA and Quantum Computing
 🔬 Interested in Quantum Mechanics & Computational Science
 
 ---
