@@ -31,7 +31,7 @@
 
 ## 📌 Projects
 
-- 🧮 **[Currency Converter](https://github.com/ToufikIIT/currency-converter)** – Real-time currency conversion using JS and API.
+- 🧮 **[Currency Converter](https://github.com/ToufikIIT/Currancy_Converter)** – Real-time currency conversion using JS and API.
 - ⚛️ **Quantum ESPRESSO + ASE Workflow** – Simulating material properties using DFT on Linux WSL.(Currenty working on it, not in my repo)
 
 > 🧠 [More on my GitHub →](https://github.com/ToufikIIT?tab=repositories)
