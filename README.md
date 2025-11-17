@@ -65,7 +65,8 @@
 
 <!-- Optional: Contribution snake animation (requires an action) -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/ToufikIIT/ToufikIIT/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+ ![snake dark](https://raw.githubusercontent.com/ToufikIIT/ToufikIIT/output/snake_dark.svg)
+
 </p>
 
 ---
