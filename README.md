@@ -67,10 +67,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ToufikIIT/ToufikIIT/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
 
 ---
 
