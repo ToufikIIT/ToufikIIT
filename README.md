@@ -62,6 +62,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToufikIIT&layout=compact&theme=radical" width="43%">
 </p>
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToufikIIT&radius=16&theme=react&area=true&order=5" alt="GitHub Streak" />
+</p>
 
 <!-- Optional: Contribution snake animation (requires an action) -->
 <p align="center">
