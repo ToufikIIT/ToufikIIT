@@ -7,7 +7,7 @@
 ---
 
 🎓 B.Tech @ IIT Kharagpur  
-💻 Passionate about Web Development, Competitive Programming, Open Source, DSA, AI & ML, Quantum Computing  
+💻 Passionate about Web Development, Competitive Programming, Open Source, DSA, AI & ML, Quantum Computing , Quantum Mechanics and DFT 
 🔬 Interested in Quantum Mechanics & Computational Science  
 
 ---
